@@ -15,7 +15,7 @@ const App = () => {
       <h2 className="text-2xl font-bold text-gray-800 mb-4">Product Details</h2>
       <div className="border-b pb-4 mb-4">
       <p>
-  <img className="w-10 h-10 rounded-lg img" src="/image/umushonge.jpg" alt="image" />
+  <img className=" h-40 rounded-lg" src="/image/umushonge.jpg" alt="image" />
 </p>
         <p><strong>Brand:</strong> UMUSHONGE</p>
         
@@ -30,7 +30,7 @@ const App = () => {
         <p><strong>Storage Condition:</strong> Store in a cool dry place away from contamination</p>
         <p><strong>Standardisation:</strong> RSB Standardisation Mark (RS EAS 782:2019)</p>
       </div>
-      <h3 className="text-xl font-semibold mb-2 underline">Available Net weight: 1kg </h3>
+      <h3 className="text-xl font-semibold mb-2">Available Net weight: 1kg </h3>
     
       <p>UMUSHONGE pre-packed composite flour is also available in <strong>3kg&5kg</strong> bags.</p>
     </div>

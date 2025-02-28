@@ -1,4 +1,4 @@
-import { useState } from 'react'
+
 const App = () => {
   const products = [
     {
@@ -6,7 +6,7 @@ const App = () => {
       price: "RWF 2000",
     },
 
-   
+    
   
   ];
 

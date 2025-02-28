@@ -6,14 +6,7 @@ const App = () => {
       price: "RWF 2000",
     },
 
-    {
-      weight: "3kg",
-      price: "RWF 5700",
-    },
-    {
-      weight: "5kg",
-      price: "RWF 9500",
-    },
+   
   
   ];
 
@@ -38,13 +31,7 @@ const App = () => {
         <p><strong>Standardisation:</strong> RSB Standardisation Mark (RS EAS 782:2019)</p>
       </div>
       <h3 className="text-xl font-semibold mb-2 underline">Available Net weight: 1kg </h3>
-      {/* <ul>
-        {products.map((product, index) => (
-          <li key={index} className="p-2 border rounded-md mb-2">
-            <strong>{product.weight}</strong>
-          </li>
-        ))}
-      </ul> */}
+    
       <p>UMUSHONGE pre-packed composite flour is also available in <strong>3kg&5kg</strong> bags.</p>
     </div>
   );

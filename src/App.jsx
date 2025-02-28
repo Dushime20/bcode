@@ -28,7 +28,7 @@ const App = () => {
         <p><strong>Phone:</strong> +250788884362 / +250788307704</p>
         <p><strong>Customer Contact:</strong> +250798580856 </p>
         <p><strong>Storage Condition:</strong> Store in a cool dry place away from contamination</p>
-        <p><strong>Standardisation:</strong> RSB Standardisation Mark (RS EAS 782:2019)</p>
+        <p className="flex gap-2"><strong>Standardisation:</strong> RSB Standardisation Mark (RS EAS 782:2019) <img className="h-8" src="/image/S-mark.png" alt="image"/></p>
       </div>
       <h3 className="text-xl font-semibold mb-2">Available Net weight: 1kg </h3>
     

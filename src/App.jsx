@@ -24,7 +24,7 @@ const App = () => {
         <p><strong>Company:</strong> Golden 250 Grams Ltd</p>
         <p><strong>Country of Origin:</strong> Rwanda</p>
         <p><strong>Address:</strong> Rwanda, Kigali, Nyarugenge, Nzove</p>
-        <p><strong>Email:</strong> <a href="mailto:golden250gramsltd@gmail.com" className="text-blue-600">Golden250gramsltd@gmail.com</a></p>
+        <p><strong>Email:</strong> <a href="mailto:golden250gramsltd@gmail.com" className="text-blue-600">golden250gramsltd@gmail.com</a></p>
         <p><strong>Phone:</strong> +250788884362 / +250788307704</p>
         <p><strong>Customer Contact:</strong> +250798580856 </p>
         <p><strong>Storage Condition:</strong> Store in a cool dry place away from contamination</p>
